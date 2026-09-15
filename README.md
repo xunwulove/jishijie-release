@@ -6,8 +6,14 @@
 
 前往 [Releases](https://github.com/xunwulove/jishijie-release/releases) 下载最新版：
 
-- **jishijie-desktop-setup-2.2.2.exe** — Windows 64位安装版
-- **jishijie-desktop-2.2.2.exe** — Windows 64位便携版，解压即用
+- **jishijie-desktop-setup-2.2.3.exe** — Windows 64位安装版
+- **jishijie-desktop-2.2.3.exe** — Windows 64位便携版，解压即用
+
+## v2.2.3 更新内容
+
+- 全屏 OSD 时钟改为 DOM 直写刷新，降低全屏播放时的 CPU 占用
+- 播放器配置读取独立降级，失败不再影响弹幕配置加载
+- WebView 嗅探置信度分级：script 文本提取的直链仅显示按钮手动切换，不再自动误报
 
 ## v2.2.2 更新内容
 
