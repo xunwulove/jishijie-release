@@ -6,8 +6,14 @@
 
 前往 [Releases](https://github.com/xunwulove/jishijie-release/releases) 下载最新版：
 
-- **jishijie-desktop-setup-2.2.0.exe** — Windows 64位安装版
-- **jishijie-desktop-2.2.0.exe** — Windows 64位便携版，解压即用
+- **jishijie-desktop-setup-2.2.1.exe** — Windows 64位安装版
+- **jishijie-desktop-2.2.1.exe** — Windows 64位便携版，解压即用
+
+## v2.2.1 更新内容
+
+- 全屏 OSD：全屏播放时右上角常驻显示当前时间与实时网速（设置可开关，默认开启）
+- 迷你进度条：控制栏隐藏时底部细线显示播放进度（含缓冲层）
+- 设置页新增「播放器」Tab，弹幕设置并入；Tab 顺序调整（影视源/播放器/备份同步/壁纸/关于）
 
 ## v2.2.0 更新内容
 
