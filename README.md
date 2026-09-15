@@ -6,8 +6,13 @@
 
 前往 [Releases](https://github.com/xunwulove/jishijie-release/releases) 下载最新版：
 
-- **jishijie-desktop-setup-2.2.1.exe** — Windows 64位安装版
-- **jishijie-desktop-2.2.1.exe** — Windows 64位便携版，解压即用
+- **jishijie-desktop-setup-2.2.2.exe** — Windows 64位安装版
+- **jishijie-desktop-2.2.2.exe** — Windows 64位便携版，解压即用
+
+## v2.2.2 更新内容
+
+- WebView 网页播放嗅探升级：穿透同域 iframe、直链 m3u8 优先、相对路径补全
+- 加载超时提示、后台解析状态可见、嗅探空转自动降频
 
 ## v2.2.1 更新内容
 
