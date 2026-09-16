@@ -6,8 +6,15 @@
 
 前往 [Releases](https://github.com/xunwulove/jishijie-release/releases) 下载最新版：
 
-- **jishijie-desktop-setup-2.2.3.exe** — Windows 64位安装版
-- **jishijie-desktop-2.2.3.exe** — Windows 64位便携版，解压即用
+- **jishijie-desktop-setup-2.2.4.exe** — Windows 64位安装版
+- **jishijie-desktop-2.2.4.exe** — Windows 64位便携版，解压即用
+
+## v2.2.4 更新内容
+
+- 播放器控制栏精简：移除右下角冗余「下载当前集」图标（下载入口保留：播放页顶部按钮 / 右键菜单 / 详情页悬停+下载全部）
+- 右下角按钮排序整理：画中画与全屏相邻、窗口置顶后移、快捷键帮助置末
+- 修复：右上角「收起剧集列表」点击无效
+- 网速统计升级：改用 hls/flv 分片加载事件统计，m3u8/flv 播放时右上角/全屏 OSD 稳定显示网速
 
 ## v2.2.3 更新内容
 
